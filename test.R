@@ -1,3 +1,4 @@
+#for test
 setwd("C:/Users/zheng/Desktop")
 #setwd("D:/data")
 library("raster")
